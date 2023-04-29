@@ -1,4 +1,4 @@
-name: ifohack_spatial_py310
+name: dlr
 channels:
   - conda-forge
 dependencies:
